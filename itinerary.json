@@ -1,0 +1,42 @@
+{
+    "trip" : "Japan",
+    "traveler" : {
+        "name" : "Noah", 
+        "contact" : {
+            "email" : "nbelman1@gmail.com",
+            "phone" : "610-999-8888"
+        }
+    },
+        "destinations" : [
+            {
+                "location" : "Tokyo",
+                "arrivalDate" : "2024-11-01",
+                "departureDate" : "2024-11-04",
+                "activities" : [
+                    {
+                        "title" : "Nintendo store", 
+                        "time" : "9:00 AM"
+                    },
+                    {
+                        "title" : "Tokyo tower", 
+                        "time" : "2:00 PM"
+                    }
+                ]
+            },
+            {
+                "location" : "Hakone", 
+                "arrivalDate" : "2024-11-04", 
+                "departureDate" : "2024-11-07",
+                "activities" : [
+                    {
+                        "title" : "Raceway", 
+                        "time" : "10:00 AM"
+                    },
+                    {
+                        "title" : "Hiking", 
+                        "time" : "3:00 PM"
+                    }
+                ]
+            }
+        ]
+}
